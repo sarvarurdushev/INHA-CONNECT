@@ -1,0 +1,40 @@
+{
+  "name": "BuildingCrowd",
+  "type": "object",
+  "properties": {
+    "building_name": {
+      "type": "string",
+      "description": "Building name"
+    },
+    "current_count": {
+      "type": "number",
+      "description": "Current occupancy"
+    },
+    "predicted_count": {
+      "type": "number",
+      "description": "Predicted occupancy"
+    },
+    "capacity": {
+      "type": "number",
+      "description": "Maximum capacity"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "crowdedness_level": {
+      "type": "string",
+      "enum": [
+        "low",
+        "moderate",
+        "high",
+        "very_high"
+      ],
+      "description": "Crowdedness level"
+    }
+  },
+  "required": [
+    "building_name",
+    "current_count"
+  ]
+}
