@@ -114,8 +114,7 @@ This project is licensed under the **MIT License**.
 ### **📩 Contact**
 
 Have questions or want to collaborate?
-📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 your-website.com
+📧 sarvarurdushev@gmail.com
 
 ---
 
