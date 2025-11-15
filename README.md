@@ -6,7 +6,6 @@ If you want it customized to your actual project, just tell me the project name 
 
 ---
 
-# 📘 Inha Connect
 
 *A unified platform to connect students, clubs, and alumni.*
 
@@ -120,5 +119,3 @@ Have questions or want to collaborate?
 
 ---
 
-
-Just tell me your project name + tech stack!
